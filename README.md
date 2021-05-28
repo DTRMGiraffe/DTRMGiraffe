@@ -2,4 +2,4 @@
 - 👀 I’m interested in PCs, Badminton, Photography, and Keyboards
 - 🌱 I’m currently learning C++ as 2nd year @ OCC
 - 💞️ I’m looking to collaborate on any fun projects.
-- 📫 How to reach me Giraffe#2028
+- 📫 Reach me via Discord: Giraffe#2028

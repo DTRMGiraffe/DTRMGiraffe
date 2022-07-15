@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DTRMGiraffe
 - 👀 I’m interested in PCs, Badminton, Photography, and Keyboards
-- 🌱 I’m currently learning C++ as 2nd year @ OCC
+- 🌱 I’m currently learning Game Development as 3rd year @ UCI
 - 💞️ I’m looking to collaborate on any fun projects.
 - 📫 Reach me via Discord: Giraffe#2028
